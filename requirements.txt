@@ -3,3 +3,6 @@ Flask-CORS
 pandas
 numpy
 scikit-learn
+faiss-cpu
+textblob
+sqlite3
